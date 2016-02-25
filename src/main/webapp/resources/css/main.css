@@ -1,0 +1,30 @@
+body{
+
+}
+#wraper{
+    overflow: hidden;
+    max-width:1024px;
+    margin: 0 auto;
+}
+#header{
+    overflow: hidden;
+    width:100%;
+}
+.logo{
+    float: left;
+}
+.nav{
+    float: right;
+    list-style: none;
+}
+.nav li{
+    padding:0 10px;
+    float: left;
+}
+.nav li a{
+    display: block;
+}
+#footer{
+    overflow: hidden;
+    width:100%;
+}
